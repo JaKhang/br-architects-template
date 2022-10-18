@@ -1,0 +1,18 @@
+1.navigation(fixed)
+    BR Architects
+    Projects
+    About
+    Contact
+2.header
+    image
+    logo
+3.content
+    Projects
+    About
+    Contact
+4.footer
+-font
+    verdana
+    segoe ui
+
+
